@@ -13,9 +13,10 @@ filepath = output_video_path + "\input_vid.mp4"
 hg_token = ""
 
 #Google API key - for Gemini based RAG
-GOOGLE_API_KEY = ""
-os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
+#To run the app - uncomment the below lines and add the respective keys
+# GOOGLE_API_KEY = ""
+# os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
 
-#Open AI key - for Open AI - Clip model
-OPENAI_API_TOKEN = ""
-os.environ["OPENAI_API_KEY"] = OPENAI_API_TOKEN
+# #Open AI key - for Open AI - Clip model
+# OPENAI_API_TOKEN = ""
+# os.environ["OPENAI_API_KEY"] = OPENAI_API_TOKEN
