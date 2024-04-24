@@ -3,6 +3,8 @@
 **Project Overview:**
 This project aims to develop an efficient video summarization system using cutting-edge Large Language Models (LLMs) such as GPT-3, T5, and BART, along with the Retrieval-Augmented Generation (RAG) architecture. The system will automatically extract key information from videos, providing users with concise summaries and facilitating easy access to relevant content.
 
+For more information see the project report: [Project Report](https://github.com/mrunal-create/LLM_Project/blob/main/Report.pdf)
+
 **Project Participants:**
 - Anusha Kalbande (kalbande.a@northeastern.edu)
 - Harshada Sasturkar (sasturkar.h@northeastern.edu)
